@@ -1,6 +1,23 @@
 <div align="center">
 
-<div style="
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2500&pause=700&color=FF00FF&center=true&vCenter=true&width=1200&height=80&lines=☁️+WELCOME+TO+MY+PAGE+☁️;✨+I'M+MARCIA+BLACK+✨;🚀+THIS+IS+MY+CLOUD+CITY+🚀;💻+AZURE+%7C+POWERSHELL+%7C+CYBERSECURITY;🌐+NETWORKING+%7C+AUTOMATION+%7C+CLOUD;🇨🇷+COSTA+RICAN+SPIRIT+IN+TECH+✨" alt="Typing SVG" />
+
+</div>
+
+<h3 align="center">Building in the Cloud • Active Directory • Powered by Azure & Ambition ☁️</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ValOnCloud404/ValOnCloud404/main/assets/cloud-left.gif" width="90" alt="floating cloud"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PowerShell-6D28D9?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Directory-7C3AED?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-8B5CF6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entra%20ID-A855F7?style=for-the-badge&logo=microsoft&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ValOnCloud404/ValOnCloud404/main/assets/cloud-right.gif" width="90" alt="floating cloud"/>
+</p>
+
+---
 
 
 ## ☁️ ✨ WELCOME TO MY PAGE • I'M MARCIA BLACK • THIS IS MY CLOUD CITY 🚀 • AZURE ☁️ • POWERSHELL ⚡ • CYBERSECURITY 🛡️ • NETWORKING 🌐 • AUTOMATION 💻 ✨ ☁️
